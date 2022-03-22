@@ -36,5 +36,5 @@ let quoziente=numeroFinale%2;
 if(quoziente==0){
     alert("Ha vinto pari");
 }else{
-        alert("Ha vinto dispari");
+        alert("Ha vinto dispari ");
 }
